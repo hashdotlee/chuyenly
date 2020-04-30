@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Trên vai của những người khổng lồ
+author: HASH
 tags:
   - opinions
   - story
 description: >
 
 hero: https://source.unsplash.com/collection/4371465
-overlay: blue
+overlay: grey
 published: true
 ---
+## Nguồn gốc câu nói nổi tiếng: "Nếu tôi nhìn được xa hơn người khác, đó là nhờ đứng trên vai những người khổng lồ" của Newton.  
 
-# Nguồn gốc câu nói của **Newton**: Trên vai của những người **KHỔNG LỒ**.
-------
-
-Chắc hẳn nhiều người đã từng nghe câu ”*Nếu tôi nhìn được xa hơn người khác, đó là nhờ đứng trên vai những người khổng lồ*” của Newton rồi. Câu nói này xuất phát từ một lá thứ mà Newton viết cho Hooke, người mà trước đó được xem là đối thủ lớn nhất của ông, vào ngày 5/2/1675.
+Chắc hẳn nhiều người đã từng nghe câu ”*Nếu tôi nhìn được xa hơn người khác, đó là nhờ đứng trên vai những người khổng lồ*” của **Newton** rồi. Câu nói này xuất phát từ một lá thứ mà Newton viết cho **Hooke**, người mà trước đó được xem là đối thủ lớn nhất của ông, vào ngày 5/2/1675.
 <!–-break-–>
 
 Cụm từ “trên vai những người khổng lồ” có thể đã được Newton mượn của một tài liệu ra đời trước đó. Thực ra cụm từ này được sử dụng rộng rãi bởi nhiều tác giả trong thời kỳ Trung Cổ và Phục Hưng. Ngoài câu của Newton được biết đến rộng rãi ngày nay, một nhà Thần Học ở thế kỷ 12 là John of Salisbury rất nổi tiếng cũng đã sử dụng cum từ này. Tôi đã đọc qua nhiều trích dẫn của ông ấy, dưới đây một trong số đó :
@@ -55,7 +54,5 @@ Nhưng việc nhiều trích dẫn giống nhau không phải hiếm. Bạn có 
 "I think, therefore I am. But I'm micromanaged, therefore I am not."
 
 **\- Scott Adams, Dilbert comic strip, 1997**
-
-*ADMIN: [HASH](https://www.facebook.com/hashdotlee)*
 
 Tham khảo: [aerospaceweb.org](http://www.aerospaceweb.org/question/history/q0162b.shtml)
