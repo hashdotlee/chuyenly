@@ -1,17 +1,17 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/chuyenly/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Chuyên Lý
   description                  : >
-                               this should contain a proper description
+                               © 2020
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  search_path                : "hashdotlee.github.io/chuyenly"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -20,20 +20,21 @@ blog:
   titles_only                : false # show post titles only on main blog page
 
 # Fonts
-  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
+  font                       :  "'Inter', sans-serif"
+  load_google_fonts          :  Inter:wght@500&display=swap
 
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Chuyên Lý
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  mail                      : hashdotlee@email.com # change to your e-mail address
+  twitter                   : #twitter-user-name
+  github                    : hashdotlee
+  youtube                   : #youtube-user-name
+  facebook                  : ph9ss
+  stackoverflow             : #stackoverflow-user-name
+  disqus                    : Chuyenly # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"

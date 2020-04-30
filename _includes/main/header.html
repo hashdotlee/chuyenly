@@ -7,12 +7,19 @@
       </div>
 
         <ul>
-            <li><a href="{{ '/about' | prepend: site.baseurl }}">about</a></li>
-            <li><a href="{{ '/archive' | prepend: site.baseurl }}">archive</a></li>
+            <li><a href="{{ '/about' | prepend: site.baseurl }}">Về chúng tôi</a></li>
+            <li><a href="{{ '/archive' | prepend: site.baseurl }}">Lưu trữ</a></li>
         </ul>
     </div>
     <div class="social">
       <ul>
+        {% if site.author.facebook %}
+        <li>
+            <a href="https://facebook.com/{{ site.author.facebook }}" target="_blank" class="smaller">
+              <span class="icon-facebook1"></span>
+            </a>
+        </li>
+        {% endif %}
         {% if site.author.youtube %}
         <li>
             <a href="https://youtube.com/{{ site.author.youtube }}" target="_blank" class="smaller">
@@ -55,6 +62,7 @@
             </a>
         </li>
         {% endif %}
+
         <li>
             <a href="#" onclick="switchTheme()" title="Switch theme?">
               <span class="icon-invert_colors" id="theme-switcher"></span>
