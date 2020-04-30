@@ -11,8 +11,8 @@
     position: relative;
 
     h1 {
-      font-weight: $base-font-weight-bold;
-      font-size: $post-title-size;
+      font-weight: 10px;
+      font-size: 36px;
       border: 0; // reset
       a {
         display: block; // slide border needs to cover the whole heading

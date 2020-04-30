@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Tìm kiếm
 permalink: /archive/
 weight: 5
 sitemap:
