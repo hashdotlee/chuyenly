@@ -1,7 +1,7 @@
 # Base blog settings
 baseurl                      : "/chuyenly/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "https://hashdotlee.github.io" # the base hostname & protocol for your site
+url                          : "https://hashdotlee.github.io/chuyenly" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
